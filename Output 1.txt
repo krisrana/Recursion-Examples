@@ -1,0 +1,25 @@
+Enter a string:  A. Atshan is a prof
+
+f
+o
+r
+p
+
+a
+
+s
+i
+
+n
+a
+h
+s
+t
+A
+
+.
+A
+
+--------------------------------
+Process exited after 1.568 seconds with return value 0
+Press any key to continue . . .

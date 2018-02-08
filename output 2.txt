@@ -1,0 +1,18 @@
+Enter a string:  krishna rana
+
+a
+n
+a
+r
+
+a
+n
+h
+s
+i
+r
+k
+
+--------------------------------
+Process exited after 1.79 seconds with return value 0
+Press any key to continue . . .

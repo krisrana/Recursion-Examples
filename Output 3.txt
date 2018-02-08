@@ -1,0 +1,34 @@
+Enter Element: 34
+It is
+
+
+--------------------------------
+Process exited after 2.957 seconds with return value 0
+Press any key to continue . . .
+
+------------------------------------------------------
+Enter Element: 98
+It is
+
+
+--------------------------------
+Process exited after 2.012 seconds with return value 0
+Press any key to continue . . .
+
+------------------------------------------------------
+Enter Element: 4
+It is not
+
+
+--------------------------------
+Process exited after 1.093 seconds with return value 0
+Press any key to continue . . .
+
+------------------------------------------------------
+Enter Element: 85
+It is not
+
+
+--------------------------------
+Process exited after 1.071 seconds with return value 0
+Press any key to continue . . .
